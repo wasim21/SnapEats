@@ -1,0 +1,10 @@
+# Node modules for both client and server
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build directory created by React
+build/
+
+# Environment variables file
+.env
