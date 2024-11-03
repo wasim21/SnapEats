@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SnapEats/static/css/main.68ef7b36.css",
+    "main.js": "/SnapEats/static/js/main.158b65fc.js",
+    "static/js/317.620855c6.chunk.js": "/SnapEats/static/js/317.620855c6.chunk.js",
+    "static/media/bg.jpg": "/SnapEats/static/media/bg.2c19cdd4ac6b5d8c1b63.jpg",
+    "index.html": "/SnapEats/index.html",
+    "main.68ef7b36.css.map": "/SnapEats/static/css/main.68ef7b36.css.map",
+    "main.158b65fc.js.map": "/SnapEats/static/js/main.158b65fc.js.map",
+    "317.620855c6.chunk.js.map": "/SnapEats/static/js/317.620855c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68ef7b36.css",
+    "static/js/main.158b65fc.js"
+  ]
+}
